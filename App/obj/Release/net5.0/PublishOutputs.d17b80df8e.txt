@@ -1,0 +1,4 @@
+/Users/lucaszane/Projects/docker-test/App/bin/Release/net5.0/publish/NetCore.Docker.dll
+/Users/lucaszane/Projects/docker-test/App/bin/Release/net5.0/publish/NetCore.Docker.deps.json
+/Users/lucaszane/Projects/docker-test/App/bin/Release/net5.0/publish/NetCore.Docker.runtimeconfig.json
+/Users/lucaszane/Projects/docker-test/App/bin/Release/net5.0/publish/NetCore.Docker.pdb

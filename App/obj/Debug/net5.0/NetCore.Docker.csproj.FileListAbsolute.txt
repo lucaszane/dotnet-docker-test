@@ -1,0 +1,15 @@
+/Users/lucaszane/Projects/docker-test/App/bin/Debug/net5.0/NetCore.Docker.deps.json
+/Users/lucaszane/Projects/docker-test/App/bin/Debug/net5.0/NetCore.Docker.runtimeconfig.json
+/Users/lucaszane/Projects/docker-test/App/bin/Debug/net5.0/NetCore.Docker.runtimeconfig.dev.json
+/Users/lucaszane/Projects/docker-test/App/bin/Debug/net5.0/NetCore.Docker.dll
+/Users/lucaszane/Projects/docker-test/App/bin/Debug/net5.0/ref/NetCore.Docker.dll
+/Users/lucaszane/Projects/docker-test/App/bin/Debug/net5.0/NetCore.Docker.pdb
+/Users/lucaszane/Projects/docker-test/App/obj/Debug/net5.0/NetCore.Docker.csproj.AssemblyReference.cache
+/Users/lucaszane/Projects/docker-test/App/obj/Debug/net5.0/NetCore.Docker.GeneratedMSBuildEditorConfig.editorconfig
+/Users/lucaszane/Projects/docker-test/App/obj/Debug/net5.0/NetCore.Docker.AssemblyInfoInputs.cache
+/Users/lucaszane/Projects/docker-test/App/obj/Debug/net5.0/NetCore.Docker.AssemblyInfo.cs
+/Users/lucaszane/Projects/docker-test/App/obj/Debug/net5.0/NetCore.Docker.csproj.CoreCompileInputs.cache
+/Users/lucaszane/Projects/docker-test/App/obj/Debug/net5.0/NetCore.Docker.dll
+/Users/lucaszane/Projects/docker-test/App/obj/Debug/net5.0/ref/NetCore.Docker.dll
+/Users/lucaszane/Projects/docker-test/App/obj/Debug/net5.0/NetCore.Docker.pdb
+/Users/lucaszane/Projects/docker-test/App/obj/Debug/net5.0/NetCore.Docker.genruntimeconfig.cache
